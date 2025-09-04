@@ -8,7 +8,6 @@
 📫 Entre em contato: 
 LinkedIn www.linkedin.com/in/geovanagrc
 
-😄 Curiosidade: Sonho em criar meu próprio jogo e viajar pelo mundo! 🌍
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Geovanagrc&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanagrc&layout=compact&theme=dark)
