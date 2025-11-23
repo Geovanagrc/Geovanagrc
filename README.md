@@ -1,7 +1,7 @@
 # 👋 Olá, sou a Geovana Garcia dos Santos!
-🎯 Apaixonada por tecnologia, estou aprendendo Java, Python, C++ e SQL para me tornar uma desenvolvedora.
+🎯 Apaixonada por tecnologia, videogames e livros! 
 
-🌱 Atualmente aprendendo: Programação Orientada a Objetos e Manipulação de Banco de Dados.
+🌱 Atualmente aprendendo: JavaScript, HTML e CSS.
 
 💡 Projetos que me interessam:  Ferramentas web e desenvolvimento de jogos
 
