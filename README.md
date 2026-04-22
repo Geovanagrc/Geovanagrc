@@ -1,7 +1,7 @@
 # 👋 Olá, sou a Geovana Garcia dos Santos!
 🎯 Apaixonada por tecnologia, videogames e livros! 
 
-🌱 Atualmente aprendendo: JavaScript, HTML e CSS.
+🌱 Atualmente aprendendo: Java e Python.
 
 💡 Projetos que me interessam:  Ferramentas web e desenvolvimento de jogos
 
